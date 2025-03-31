@@ -13,7 +13,14 @@ Exodus Larp Tool is a powerful platform that allows you to simulate and visualiz
 - Customizable transaction amounts and details
 - Professional and intuitive interface
 - Mobile-friendly design
-- Easily win band 4 bands with your fellow com skids
+- Dark/Light mode support
+
+## Keyboard Shortcuts
+
+- `Ctrl + A` - Create new transaction
+- `Ctrl + A` (after transaction) - Display the transaction
+- `Ctrl + X` - Update wallet address
+- `Ctrl + S` - Process last transaction / Mark as received
 
 ## Visit Us
 
@@ -21,7 +28,7 @@ Access our tool at [exodustool.com](https://exodustool.com)
 
 ## Design
 
-Created with ❤️ by [vn0.dev](https://vn0.dev)
+Created with ❤️ using [vn0.dev](https://vn0.dev)
 
 ## Disclaimer
 
